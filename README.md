@@ -150,8 +150,4 @@ El modelo puede simular:
 
 Para más información, revisa el script principal y ejecuta las simulaciones.
 
----
 
-## Contribuciones
-
-Si deseas colaborar o mejorar el modelo, siéntete libre de abrir un issue o enviar un pull request. 😊
