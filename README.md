@@ -1,5 +1,6 @@
 # Modelo Dinámico de un Carro de Tres Ruedas
 
+
 Este repositorio contiene un modelo dinámico de un carro de tres ruedas, desarrollado para simular su comportamiento en diferentes condiciones: en línea recta y durante curvas. A continuación, se presentan las ecuaciones utilizadas en el programa.
 
 ---
